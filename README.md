@@ -31,6 +31,16 @@ java -cp out br.edu.rpg.Main
 - **ISP:** interfaces pequenas: `Heroi`, `Item`, `EntradaSaida` e `EstrategiaInimigo`.
 - **DIP:** `Combate` depende das abstrações `EntradaSaida` e `EstrategiaInimigo`, recebidas pelo construtor.
 
+## Demonstração
+
+- Parte inicial.
+
+<img width="1513" height="743" alt="image" src="https://github.com/user-attachments/assets/8ad8fd1a-24f3-4701-b5ff-c5dbc86004a8" />
+
+- Parte Final.
+
+<img width="1527" height="740" alt="image" src="https://github.com/user-attachments/assets/cfe92c72-2cee-4be0-b987-a5cd9c2f0b18" />
+
 ## UML
 
 ```mermaid
